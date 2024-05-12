@@ -12,7 +12,7 @@ CREATE TABLE altom_test (
     src VARCHAR
 );
 
-INSERT INTO videos (title,src) VALUES ('altom','https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+INSERT INTO videos (title,src) VALUES ('altom222','https://www.youtube.com/watch?v=dQw4w9WgXcQ');
 -- you can insert more rows using example data from the example_data.csv file
 
 
